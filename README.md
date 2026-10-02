@@ -43,7 +43,7 @@ To provide a **sustainable, operator-led emergency communication backbone** that
                         ┌─────────────────────────┐
                         │    GoGreen Wireless HQ   │
                         │   (Primary Gateway Node) │
-                        │   FRN: XXXXXXXXXX        │
+                        │   FRN: 0038591772        │
                         └────────────┬────────────┘
                                      │
                     ┌────────────────┼────────────────┐
